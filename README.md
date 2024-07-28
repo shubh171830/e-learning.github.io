@@ -1,1 +1,1 @@
-Stud_Sphere
+This is my first Git Repository.
